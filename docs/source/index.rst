@@ -32,6 +32,7 @@ If you are willing to contribute, please visit the :doc:`developers-guide` secti
 
    getting-started
    generators
+   glayout
    common-python-api
    tapeouts
    examples
